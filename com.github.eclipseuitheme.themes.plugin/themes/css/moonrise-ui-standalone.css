@@ -19,7 +19,7 @@
     background-color: #313538;
     color: #f7f8f8;
     font-size: 9;
-    font-family: 'Segoe Print'; /* currently, there is no way to define a fallback for font-family */
+    font-family: 'Segoe UI'; /* currently, there is no way to define a fallback for font-family */
     swt-simple: true;
     swt-tab-renderer: url('bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.CTabRendering');
 
